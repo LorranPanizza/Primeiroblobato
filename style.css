@@ -19,7 +19,7 @@ p{
     display: flex;
     
 }
-*computador{
+.computador{
     padding: 20px;
     right: 0%;
 }
